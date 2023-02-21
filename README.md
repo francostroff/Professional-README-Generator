@@ -1,8 +1,6 @@
-// function to generate markdown for README
-function generateMarkdown(answers) {
-  return `
-  # Title
-  ${answers.title}
+
+  # 
+  README Generator
   
   ## Table of Contents
   - [Project Description](#Description)
@@ -15,31 +13,26 @@ function generateMarkdown(answers) {
   - [Questions](#Questions) 
   
   ## Description
-  ${answers.description}
+  It is a Readme Generator built with inquirer, node.js and javascript in order to make a professional README  in Markdown Language.
 
   ## Installation
-  ${answers.installation}
+  git clone git@github.com:francostroff/Professional-README-Generator.git
 
   ## Usage
-  ${answers.usage}
+  Free to use Readme generator in markdown language.
 
   ## Contributing
-  ${answers.contributors}
+  Franco Stroff
 
   ## Email Contact
-  ${answers.mail}
+  francostroff@gmail.com
 
   ## GitHub 
-  ${answers.github}
+  francostroff
 
   ## License
-  ${answers.license}
+  mit
 
   ## Questions
-  ${answers.questions}
-  `;
+  francostroff@gmail.com
   
-}
-
-module.exports = generateMarkdown;
-

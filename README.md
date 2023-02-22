@@ -1,7 +1,6 @@
 
-  # 
-  README Generator
-  
+  # README Generator
+
   ## Table of Contents
   - [Project Description](#Description)
   - [Installation](#Installation)
@@ -16,7 +15,10 @@
   It is a Readme Generator built with inquirer, node.js and javascript in order to make a professional README  in Markdown Language.
 
   ## Installation
-  git clone git@github.com:francostroff/Professional-README-Generator.git
+ _To install, on the terminal type:_
+   ```sh
+   git clone git@github.com:francostroff/Professional-README-Generator.git
+   ```
 
   ## Usage
   Free to use Readme generator in markdown language.
@@ -28,11 +30,10 @@
   francostroff@gmail.com
 
   ## GitHub 
-  francostroff
+  https://github.com/francostroff
 
   ## License
   mit
 
   ## Questions
   francostroff@gmail.com
-  
